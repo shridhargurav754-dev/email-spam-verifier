@@ -1,2 +1,1 @@
-# email-spam-verifier
-Email Spam Verifier Dashboard is a Python Tkinter application that detects spam emails using rule-based analysis of keywords, links, urgency phrases, capitalization, and other suspicious patterns. It provides risk scoring, detailed insights, and an interactive neon-themed user interface.
+A Python Tkinter-based Email Spam Verifier Dashboard with interactive spam detection, risk scoring, keyword analysis, customizable rules, and a modern neon-themed UI.
